@@ -30,6 +30,20 @@ AI-powered plant disease detection system using **TensorFlow**, **MobileNetV2**,
 
 ---
 
+## 🌿 Dataset
+
+This project uses the **PlantVillage Dataset** for training and evaluation.
+
+Dataset Details:
+
+- Total Training Images: **32903**
+- Validation Images: **8219**
+- Number of Classes: **15**
+- Image Resolution: **224 × 224**
+
+---
+
+Dataset is excluded from this repository due to size limitations.
 ## 🛠 Tech Stack
 
 * Python
