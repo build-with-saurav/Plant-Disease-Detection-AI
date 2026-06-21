@@ -30,20 +30,6 @@ AI-powered plant disease detection system using **TensorFlow**, **MobileNetV2**,
 
 ---
 
-## 🌿 Dataset
-
-This project uses the **PlantVillage Dataset** for training and evaluation.
-
-Dataset Details:
-
-- Total Training Images: **32903**
-- Validation Images: **8219**
-- Number of Classes: **15**
-- Image Resolution: **224 × 224**
-
----
-
-Dataset is excluded from this repository due to size limitations.
 ## 🛠 Tech Stack
 
 * Python
@@ -55,6 +41,19 @@ Dataset is excluded from this repository due to size limitations.
 * Matplotlib
 * Seaborn
 * Scikit-learn
+
+---
+
+## 🌿 Dataset
+
+This project uses the **PlantVillage Dataset** for training and evaluation.
+
+* Total Training Images: **32903**
+* Validation Images: **8219**
+* Number of Classes: **15**
+* Image Resolution: **224 × 224**
+
+Dataset is excluded from this repository due to size limitations.
 
 ---
 
@@ -78,6 +77,7 @@ Plant-Disease-Detection-AI/
 │   ├── prediction.png
 │   ├── metrics.png
 │   └── classification-report.png
+```
 
 ---
 
@@ -103,14 +103,14 @@ Plant-Disease-Detection-AI/
 
 ## 📈 Results
 
-| Metric | Value |
-|---|---|
-| Validation Accuracy | **91.37%** |
-| Validation Loss | **0.2516** |
-| Training Images | **32903** |
-| Validation Images | **8219** |
-| Number of Classes | **15** |
-| Base Model | **MobileNetV2** |
+| Metric              | Value           |
+| ------------------- | --------------- |
+| Validation Accuracy | **91.37%**      |
+| Validation Loss     | **0.2516**      |
+| Training Images     | **32903**       |
+| Validation Images   | **8219**        |
+| Number of Classes   | **15**          |
+| Base Model          | **MobileNetV2** |
 
 ---
 
@@ -181,7 +181,7 @@ This makes the model useful beyond prediction by adding practical agricultural g
 
 ## 👨‍💻 Author
 
-**Saurav Singh**  
-Computer Science Engineer | AI/ML Enthusiast  
+**Saurav Singh**
+Computer Science Engineer | AI/ML Enthusiast
 
 GitHub: https://github.com/build-with-saurav
