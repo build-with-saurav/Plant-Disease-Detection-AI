@@ -98,14 +98,14 @@ Plant-Disease-Detection-AI/
 
 ## 📈 Results
 
-| Metric              | Value           |
-| ------------------- | --------------- |
-| Validation Accuracy | **91.37%**      |
-| Validation Loss     | **0.2516**      |
-| Training Images     | **32903**       |
-| Validation Images   | **8219**        |
-| Number of Classes   | **15**          |
-| Base Model          | **MobileNetV2** |
+| Metric | Value |
+|---|---|
+| Validation Accuracy | **91.37%** |
+| Validation Loss | **0.2516** |
+| Training Images | **32903** |
+| Validation Images | **8219** |
+| Number of Classes | **15** |
+| Base Model | **MobileNetV2** |
 
 ---
 
@@ -176,7 +176,7 @@ This makes the model useful beyond prediction by adding practical agricultural g
 
 ## 👨‍💻 Author
 
-**Saurav Singh**
-Computer Science Engineer | AI/ML Enthusiast
+**Saurav Singh**  
+Computer Science Engineer | AI/ML Enthusiast  
 
 GitHub: https://github.com/build-with-saurav
