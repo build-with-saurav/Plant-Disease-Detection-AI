@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+imageproc_env/
+venv/
+
+.ipynb_checkpoints/
+
+Processed/
+PlantVillage/
+
+*.zip
+*.tar.gz
+*.log
+inference_log.csv

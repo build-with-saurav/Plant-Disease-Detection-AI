@@ -1,0 +1,92 @@
+{
+    "Pepper__bell___Bacterial_spot": {
+        "description": "A bacterial infection causing water-soaked lesions on pepper leaves and fruits.",
+        "symptoms": "Small, dark, water-soaked spots on leaves, stems, and fruits; spots enlarge and become sunken.",
+        "management": "Apply copper-based bactericides; remove and destroy infected plant debris.",
+        "prevention": "Use certified disease-free seeds, avoid overhead irrigation, practice crop rotation."
+    },
+    "Pepper__bell___healthy": {
+        "description": "The pepper plant is healthy with no visible disease symptoms.",
+        "symptoms": "Vibrant green leaves and stems; normal growth.",
+        "management": "Maintain balanced fertility and watering; monitor regularly for pests.",
+        "prevention": "Practice crop rotation and maintain proper field sanitation."
+    },
+    "Potato___healthy": {
+        "description": "Potato plant showing no disease or pest signs.",
+        "symptoms": "Healthy foliage with green leaves and stems.",
+        "management": "Ensure balanced fertilization and irrigation.",
+        "prevention": "Use certified seed potatoes and rotate crops regularly."
+    },
+    "Potato___Late_blight": {
+        "description": "A serious fungal disease caused by *Phytophthora infestans* affecting potatoes.",
+        "symptoms": "Dark, water-soaked lesions on leaves and stems; white fungal growth under leaves; tuber rot.",
+        "management": "Apply appropriate fungicides (chlorothalonil, copper sprays); remove infected plant parts.",
+        "prevention": "Use resistant varieties; avoid overhead irrigation; practice crop rotation."
+    },
+    "Potato___Early_blight": {
+        "description": "Fungal disease caused by *Alternaria solani* causing leaf spots.",
+        "symptoms": "Small, dark brown spots with concentric rings ('target spots') on leaves and stems.",
+        "management": "Apply fungicides regularly; remove plant debris after harvest.",
+        "prevention": "Plant resistant varieties; rotate crops; avoid planting near infected fields."
+    },
+    "Tomato_healthy": {
+        "description": "Tomato plant showing no disease symptoms.",
+        "symptoms": "Healthy green leaves, stems, and fruit set.",
+        "management": "Maintain balanced nutrition and water management.",
+        "prevention": "Use quality seed; monitor regularly for pests."
+    },
+    "Tomato_Bacterial_spot": {
+        "description": "Bacterial infection causing leaf spots and fruit blemishes.",
+        "symptoms": "Small, water-soaked dark spots on leaves; spots on fruit surface.",
+        "management": "Use copper-based bactericides; remove infected foliage.",
+        "prevention": "Avoid overhead irrigation; plant disease-free seed."
+    },
+    "Tomato_Late_blight": {
+        "description": "Fungal disease causing leaf, stem, and fruit rot in tomatoes.",
+        "symptoms": "Dark brown lesions on leaves; white fuzzy mold under leaves; fruit decay.",
+        "management": "Apply fungicides; remove infected tissue promptly.",
+        "prevention": "Grow resistant varieties; avoid wet foliage; monitor humidity."
+    },
+    "Tomato_Early_blight": {
+        "description": "Leaf spot disease caused by fungus *Alternaria* species.",
+        "symptoms": "Small, concentric ringed spots on older leaves; leaf yellowing and drop.",
+        "management": "Use fungicides as necessary; remove dead leaves.",
+        "prevention": "Crop rotation and resistant varieties."
+    },
+    "Tomato_Leaf_Mold": {
+        "description": "Fungal disease causing yellow spots and downy mold patches.",
+        "symptoms": "Yellow upper leaf spots; grayish to purple fuzz under leaves.",
+        "management": "Fungicide application; improve airflow in greenhouses.",
+        "prevention": "Avoid leaf wetness; maintain ventilation."
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "description": "Fungal infection producing leaf spots and defoliation.",
+        "symptoms": "Small circular spots with dark borders on leaf surfaces.",
+        "management": "Remove infected leaves; apply fungicides.",
+        "prevention": "Crop rotation and sanitation."
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "description": "Infestation by tiny spider mites causing stippling and webbing.",
+        "symptoms": "Yellow speckling, leaf curling, and fine spider webs on leaf undersides.",
+        "management": "Apply insecticidal soaps or neem oil; increase humidity.",
+        "prevention": "Regular scouting and biological control with predatory mites."
+    },
+    "Tomato__Target_Spot": {
+        "description": "Fungal disease causing target-shaped leaf spots.",
+        "symptoms": "Small dark spots with concentric rings on leaves.",
+        "management": "Apply fungicides and remove affected leaves.",
+        "prevention": "Crop rotation and clean cultivation."
+    },
+    "Tomato__Tomato_mosaic_virus": {
+        "description": "Viral infection leading to mottled leaf chlorosis.",
+        "symptoms": "Mosaic pattern on leaves, leaf curling, stunted growth.",
+        "management": "Remove infected plants; control insects that spread virus.",
+        "prevention": "Use resistant varieties; sterilize tools."
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+        "description": "Virus transmitted by whiteflies causing yellowing and curling.",
+        "symptoms": "Yellow, twisted leaves; stunted plant growth.",
+        "management": "Control whitefly populations with insecticides and traps.",
+        "prevention": "Use virus-free seedlings; cover crops with netting."
+    }
+}
