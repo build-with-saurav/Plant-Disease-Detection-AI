@@ -59,20 +59,11 @@ Plant-Disease-Detection-AI/
 │   ├── plant_disease_model.weights.h5
 │   └── class_indices.json
 │
-├── Processed/
-│   └── dataset files
-│
 ├── screenshots/
 │   ├── home.png
 │   ├── prediction.png
 │   ├── metrics.png
 │   └── classification-report.png
-│
-├── notebooks/
-│   └── experimentation.ipynb
-│
-└── docs/
-```
 
 ---
 
